@@ -1,7 +1,7 @@
 {
 "title": "Zencher",
 "publisherName": "Zencher",
-"feedIdentifier": "io.github.Zencher",
+"feedIdentifier": "io.github.tzuhanli",
 "contactURL": "mailto:cora.li@zencher.com",
 "formatVersion": "1.0",
 "documents": [
@@ -10,13 +10,13 @@
 		"overviewSubtitle": "Learn about Tello.",
 		"detailSubtitle": "Learn about Tello.",
 		"description": "Learn To Control the Tello",
-		"contentIdentifier": "io.github.Zencher.Tello",
+		"contentIdentifier": "io.github.tzuhanli.Tello",
 		"contentVersion": "1.0",
-		"url": "https://Zencher.github.io/Tello/Tello.playgroundbook.zip",
+		"url": "https://tzuhanli.github.io/Zencher.github.io/Tello/Tello.playgroundbook.zip",
 		"publishedDate": "2018-07-17T09:00:00+07:00",
 		"lastUpdatedDate": "2018-07-17T12:30:00+07:00",
-		"thumbnailURL": "Tello/thumbnail.png",
-		"bannerImageURL": "Tello/bannerImage.png",
+		"thumbnailURL": "https://tzuhanli.github.io/Zencher.github.io/Tello/thumbnail.png",
+		"bannerImageURL": "https://tzuhanli.github.io/Zencher.github.io/Tello/bannerImage.png",
 		"additionalInformation": [
 			{
 				"name": "Languages",
@@ -24,7 +24,7 @@
 			}
 		],
 		"previewImageURLs": [
-			"Tello/previewImage.png"
+			"https://tzuhanli.github.io/Zencher.github.io/Tello/previewImage.png"
 		]
 	}
 ]
